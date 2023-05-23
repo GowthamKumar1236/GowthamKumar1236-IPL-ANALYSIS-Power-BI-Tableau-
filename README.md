@@ -1,4 +1,4 @@
-# GowthamKumar1236-IPL-ANALYSIS-Power-BI-Tableau-
+# IPL-ANALYSIS-Power-BI-Tableau-
 
 IPL-Analysis
 
